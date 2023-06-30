@@ -1,0 +1,6 @@
+#buscador{
+    cursor: pointer;
+}
+#buscador:hover{
+    color: blue;
+}
